@@ -11,6 +11,7 @@ SQL AI 助手是一个基于 Web 的工具，旨在帮助开发者和数据库�
 5. **简单用户管理**：提供登录功能，允许用户登录后保存查询历史和优化建议（未来功能）。
 
 [在线体验](http://sql.zhimaapp.com)
+
 ![SQL AI 助手界面](./screenshot/1.png)
 ![SQL AI 助手界面](./screenshot/2.png)
 
