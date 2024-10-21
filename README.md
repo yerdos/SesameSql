@@ -1,30 +1,30 @@
-# SQL AI 助手
+# SQL AI Assistant
 
-SQL AI 助手是一个基于 Web 的工具，旨在帮助开发者和数据库管理员快速格式化、执行 SQL 查询并提供 AI 优化建议。未来，计划将此项目扩展为在线工具，使用户可以在浏览器中直接使用这些功能。
+SQL AI Assistant is a web-based tool designed to help developers and database administrators quickly format and execute SQL queries while providing AI-driven optimization suggestions. In the future, this project aims to evolve into an online tool, allowing users to utilize these features directly in their browser.
 
-## 功能
+## Features
 
-1. **AI 优化建议**：使用 AI 技术，分析查询并提供优化建议，如索引使用、查询效率改进等。
-2. **SQL 格式化**：通过集成 `sql-formatter` 库，自动格式化 SQL 查询，使其更易读。
-3. **SQL 查询执行**：允许用户输入 SQL 查询并运行查询，显示结果。[TODO]
-4. **切换选项卡**：用户可以通过选项卡切换来查看格式化的 SQL 查询或 AI 优化建议。
-5. **简单用户管理**：提供登录功能，允许用户登录后保存查询历史和优化建议（未来功能）。
+1. **AI Optimization Suggestions**: Leverages AI technology to analyze queries and offer optimization recommendations, such as improving index usage and query efficiency.
+2. **SQL Formatting**: Automatically formats SQL queries using the `sql-formatter` library, making them more readable.
+3. **SQL Query Execution**: Allows users to input SQL queries and run them, with query results displayed (feature coming soon).
+4. **Tab Switching**: Users can toggle between tabs to view formatted SQL queries or AI optimization suggestions.
+5. **Simple User Management**: Provides login functionality, enabling users to save query history and optimization suggestions (upcoming feature).
 
-[在线体验](http://sql.zhimaapp.com)
+[Try it online](https://www.sesamesql.com)
 
-![SQL AI 助手界面](./screenshot/1.png)
-![SQL AI 助手界面](./screenshot/2.png)
+![SQL AI Assistant Interface](./screenshot/1.png)
+![SQL AI Assistant Interface](./screenshot/2.png)
 
-## 使用说明
+## Usage Instructions
 
-### 1. 安装
+### 1. Installation
 
-要在本地运行此项目，请确保已安装以下工具：
+To run this project locally, ensure you have the following tools installed:
 
-- [Tailwind CSS](https://tailwindcss.com/)：用于页面样式
-- [sql-formatter](https://github.com/sql-formatter-org/sql-formatter) 和 [Highlight.js](https://highlightjs.org/)：用于 SQL 语法高亮和格式化
+- [Tailwind CSS](https://tailwindcss.com/): For styling the page
+- [sql-formatter](https://github.com/sql-formatter-org/sql-formatter) and [Highlight.js](https://highlightjs.org/): For SQL syntax highlighting and formatting
 
-克隆此仓库：
+Clone this repository:
 
 ```bash
 git clone https://github.com/yerdos/ZhimaSql.git
