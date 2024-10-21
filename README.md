@@ -12,8 +12,7 @@ SQL AI Assistant is a web-based tool designed to help developers and database ad
 
 [Try it online](https://www.sesamesql.com)
 
-![SQL AI Assistant Interface](./screenshot/1.png)
-![SQL AI Assistant Interface](./screenshot/2.png)
+![SQL AI Assistant Interface](./screenshot/7.png)
 
 ## Usage Instructions
 
