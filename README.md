@@ -27,5 +27,5 @@ To run this project locally, ensure you have the following tools installed:
 Clone this repository:
 
 ```bash
-git clone https://github.com/yerdos/ZhimaSql.git
+git clone https://github.com/yerdos/SesameSql.git
 cd sql-helper
